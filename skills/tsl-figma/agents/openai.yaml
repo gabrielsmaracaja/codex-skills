@@ -1,0 +1,4 @@
+interface:
+  display_name: "TSL a partir do Figma"
+  short_description: "Crie TSLs fiéis ao Figma com HTML, SCSS e JS"
+  default_prompt: "Use $tsl-figma para criar uma TSL fiel ao Figma neste projeto: [cole o link do frame com node-id]."
